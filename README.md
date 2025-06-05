@@ -1,56 +1,36 @@
-<!DOCTYPE html>
-<html lang="enpt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Flascard</title>
-</head>
-<body>
-    <h1>Flashcard Project</h1>
-    <p>
-        Bem-vindo ao meu projeto de Flashcard! Este projeto foi criado usando <strong>HTML</strong> e <strong>CSS</strong>. O objetivo é proporcionar uma maneira simples e intuitiva de estudar ou revisar conteúdo.
-    </p>
+# Flashcard Project
 
-    <h2>📋 Funcionalidades</h2>
-    <ul>
-        <li>Design responsivo para diferentes dispositivos.</li>
-        <li>Cartões interativos para exibir perguntas e respostas.</li>
-        <li>Estilo personalizado usando CSS puro.</li>
-    </ul>
+Bem-vindo ao meu projeto de Flashcard! Este projeto foi criado usando **HTML** e **CSS**. O objetivo é proporcionar uma maneira simples e intuitiva de estudar ou revisar conteúdo.
 
-    <h2>🚀 Tecnologias Utilizadas</h2>
-    <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-    </ul>
+## 📋 Funcionalidades
+- Design responsivo para diferentes dispositivos.
+- Cartões interativos para exibir perguntas e respostas.
+- Estilo personalizado usando CSS puro.
 
-    <h2>📂 Estrutura do Projeto</h2>
-    <pre>
-    /flashcard-project
-    ├── index.html
-    ├── styles.css
-    └── README.html
-    </pre>
+## 🚀 Tecnologias Utilizadas
+- HTML5
+- CSS3
 
-    <h2>👀 Visualizar</h2>
-    <p>Você pode clonar este repositório e abrir o arquivo <code>index.html</code> em seu navegador para visualizar o projeto.</p>
+## 📂 Estrutura do Projeto
+```
+/flashcard-project
+├── index.html
+├── styles.css
+└── README.md
+```
 
-    <h2>📜 Como Contribuir</h2>
-    <ol>
-        <li>Faça um fork do repositório.</li>
-        <li>Clone o repositório forkado para sua máquina local.</li>
-        <li>Crie uma branch com a nova funcionalidade: <code>git checkout -b minha-feature</code>.</li>
-        <li>Realize as alterações desejadas e faça o commit.</li>
-        <li>Envie um pull request.</li>
-    </ol>
+## 👀 Visualizar
+Você pode clonar este repositório e abrir o arquivo `index.html` em seu navegador para visualizar o projeto.
 
-    <h2>📞 Contato</h2>
-    <p>
-        Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo através do meu GitHub ou outra rede social.
-    </p>
+## 📜 Como Contribuir
+1. Faça um fork do repositório.
+2. Clone o repositório forkado para sua máquina local.
+3. Crie uma branch com a nova funcionalidade: `git checkout -b minha-feature`.
+4. Realize as alterações desejadas e faça o commit.
+5. Envie um pull request.
 
-    <footer>
-        <p>&copy; 2025 | Desenvolvido por Lourenço</p>
-    </footer>
-</body>
-</html>
+## 📞 Contato
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo através do meu GitHub ou outra rede social.
+
+---
+© 2025 | Desenvolvido por Lourenço
